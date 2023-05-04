@@ -1,0 +1,20 @@
+Problem Statement - Amazon Product Reviews
+Submission type
+:
+None
+Description
+Welcome to the practice project on Recommendation Systems. In this project, we aim to apply different techniques to build recommendation systems such as Rank-based & Collaborative Filtering and matrix factorization-based recommendation systems to recommend products to users.
+The notebook has been shared for the analysis
+Many parts of the notebook are omitted and replaced with blanks. You are expected to fill in the gaps as per the instructions/questions.
+The focus of most of the questions is to apply different algorithms and write observations.
+Key Points to Note:
+
+Please do not change the variable names to avoid hassles while executing the code.
+You can raise your issues on the project discussion forum on Olympus.
+The notebook should be run from start to finish in a sequential manner before submission. It is preferable to remove all warnings and errors before submission.
+You need to submit a python notebook in HTML format.
+The naming convention for the notebook will be FirstnameLastname_RecommendationSystems.html.
+Happy Learning!
+
+dataset:
+https://drive.google.com/file/d/1u8bKkDY-1fw_wcHJaa3ZFrtJiAqAHFLn/view
